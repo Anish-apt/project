@@ -1,5 +1,5 @@
 <?php
 
-prinnnt 'This is my project on jenkins'
+print 'This is my project on jenkins'
 
 ?>
